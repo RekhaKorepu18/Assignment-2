@@ -1,3 +1,4 @@
+
 class Fox:
      def eat(self):
         print("I can Eat")
@@ -10,4 +11,7 @@ class Fox:
 
     def run(self):
         print("I can Run")
-
+    
+    def hunt(self):
+        print("I can Hunt")
+         
